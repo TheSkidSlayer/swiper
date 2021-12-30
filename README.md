@@ -46,7 +46,7 @@
       Contribute
     </a>
     <span> | </span>
-    <a href="https://www.youtube.com/btcpayserver/">
+    <a href="https://www.youtube.com/channel/UC24BTf5oDG_Ofbrg_K21uKg">
       YouTube
     </a>
     <span> | </span>
